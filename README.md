@@ -1,5 +1,5 @@
 # YouTube Ad Skipper
-[Watch the demo]: https://youtu.be/gYRYjxz8SNo?si=byE6a0BmECQ_5tt_
+[Watch the demo](https://youtu.be/gYRYjxz8SNo)
 A small Python automation script that watches your screen and clicks the **Skip Ad** button on YouTube as soon as it appears.
 
 It works with image recognition: you give it a screenshot of the skip button, and it repeatedly scans the screen for a match. When it finds one, it moves the mouse to that spot and clicks.
